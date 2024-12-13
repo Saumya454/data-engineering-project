@@ -35,6 +35,7 @@ data-engineering-project/
 
 1. Clone the repository:
 
+   ```
    bash
    git clone https://github.com/Saumya454/data-engineering-project.git
    cd data-engineering-project
