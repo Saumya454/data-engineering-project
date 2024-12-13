@@ -43,10 +43,9 @@ data-engineering-project/
 2. Place the original dataset (`DataEngineeringQ2.json`) in the `data` folder.
 
 3. Run the data processing script:
-
+   ```
    bash
    python scripts/data_processing.py
-   ```
 
 4. The updated dataset will be saved as Updated_DataEngineeringQ2.json.
 
