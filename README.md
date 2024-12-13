@@ -36,18 +36,18 @@ data-engineering-project/
 1. Clone the repository:
 
    bash
-   git clone https://github.com/your-username/data-engineering-project.git
+   git clone https://github.com/Saumya454/data-engineering-project.git
    cd data-engineering-project
    
 
-2. Place the original dataset (`DataEngineeringQ2.json`) in the `data` folder.
+3. Place the original dataset (`DataEngineeringQ2.json`) in the `data` folder.
 
-3. Run the data processing script:
+4. Run the data processing script:
    ```
    bash
    python scripts/data_processing.py
 
-4. The updated dataset will be saved as Updated_DataEngineeringQ2.json.
+5. The updated dataset will be saved as Updated_DataEngineeringQ2.json.
 
 ## License
 
